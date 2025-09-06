@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 northwind2000-simplified.sqlite
 Automotive_5.json
+neg.txt
+pos.txt
+stopwords-en.txt
